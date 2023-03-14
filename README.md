@@ -60,28 +60,21 @@
 <p>
   🚀 I have learned couple of skills like Linux, SQL, JavaScript, HTML, CSS.
 </p>
-<p>📧 Email - HirenShudra8@gmail.com</p>
+<p>📧 Email - shudrahiren8@gmail.com</p>
 <p>
   📄 Know about my skills [Resume] -
   <a
-    href="https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view"
-    >[Click here]</a
+    href="https://drive.google.com/file/d/1mSN2h8sVnTdbWhsgCHDLAb-2w2RUsZwm/view?usp=sharing"
+    target="_blank">[Click here]</a
   >
 </p>
 <p>
   My LinkedIn profile -
-  <a href="https://www.linkedin.com/in/hiren-shudra-a65880b3/">[Click here]</a>
+  <a href="https://www.linkedin.com/in/hiren-shudra-a65880b3/" target="_blank">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
