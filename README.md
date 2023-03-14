@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3 align="center">An aspiring Full Stack MERN Developer</h3>
+<h3 align="center">Technical Support Engineer</h3>
 
 <div align="center">
   <img
