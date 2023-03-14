@@ -162,15 +162,3 @@
     </span>
   </a>
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/HirenShudra/github-readme-activity-graph">
-    <img
-      style="border-radius: 50px"
-      width="70%"
-      alt="HirenShudra Activity Graph"
-      src="https://activity-graph.herokuapp.com/graph?username=HirenShudra&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
-    />
-  </a>
-</div>
