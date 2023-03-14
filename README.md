@@ -1,52 +1,220 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    Hiren Shudra
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
+<h1 align="center">Hi 👋, I'm Hiren Shudra</h1>
 
+<div align="center">
+  <img
+    src="https://www.easewebs.com/web-logos/web-main.gif"
+    alt=""
+    width="300px"
+  />
+</div>
 
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Hiren Shudra 👦🏽; I am a Technical Support Engineer; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"
+      alt=""
+    />
+  </a>
+</div>
 
-<!----------------------------------- About Section ------------------------------------>
+<h3 align="center">An aspiring Full Stack MERN Developer</h3>
 
-<h3>
-    <i>To work with a company and to use Customer Service Skills and Technical Skills to the best of abilities combined with perseverance, so as to contribute to the organization’s growth and goal, as well as to attain professional goal.</i>
-</h3>
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=HirenShudra&label=Profile%20views&color=0e75b6&style=flat"
+    alt="HirenShudra"
+  />
+</div>
 
-<!----------------------------------- Profile View Section ------------------------------------>
+<h3 align="left">Git profile Trophies:</h3>
 
-<p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=white&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Tech-Stack+Support+Engineer." /></a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=HirenShudra"
+      alt="HirenShudra"
+    />
+  </a>
+</div>
+
+<br />
+
+<p>
+  🔭 I’m currently exploring and polishing my skills 🌍 I'm basically from
+  Mysuru, Karnataka, India
 </p>
 
-<p align="center">
-<p align="center">
-    <a href="https://www.linkedin.com/in/hiren-shudra-a65880b3/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shaurya's LINKDIN"/>
-    </a>
-    <a href="https://twitter.com/shaurya611">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shaurya_twitter"/>
-    </a>
-    <a title="sethshaurya96@gmail.com" href="mailto:sethshaurya96@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ypraveen341@gmail.com"/>
-    </a>
+<p>
+  ⚛️ Some technologies that I love to working with includes MERN stack,
+  Typescript & Web Testing.
 </p>
-<br>
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2 align="center"><i>My GitHub Stats</i></h2>
-<p align="center"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya611i&&theme=highcontrast" alt="Shaurya611"/></p>
-<p align="center">
+
+<p>
+  👨‍💻 My Portfilio -<a href="https://HirenShudra.github.io/">[Click here]</a>
 </p>
-<br>
-<!----------------------------------- Tech Languages ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaurya611&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Shaurya611" /></p>
-<p align="center">
+
+<p>
+  👀 My Github Repositories -
+  <a href="https://github.com/HirenShudra?tab=repositories">[Click here]</a>
 </p>
-<br>
-<!----------------------------------- Git Status ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaurya611&show_icons=true&locale=en&&theme=highcontrast" alt="Shaurya611" /></p>
-<br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Shaurya611&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Shaurya611&theme=algolia" alt="Shaurya611" /></a></p>
-<br>
+<p>
+  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS
+  libraries like Chakra UI, Bootstrap & styled-components.
+</p>
+<p>📧 Email - HirenShudra@gmail.com</p>
+<p>
+  📄 Know about my skills [Resume] -
+  <a
+    href="https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view"
+    >[Click here]</a
+  >
+</p>
+<p>
+  My LinkedIn profile -
+  <a href="https://www.linkedin.com/in/sathya-prasad-s/">[Click here]</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
+<br />
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <a href="https://github.com/HirenShudra/github-readme-stats">
+    <img
+      alt="HirenShudra Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirenShudra&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
+    />
+  </a>
+</div>
+<br />
+
+<!-- https://streak-stats.demolab.com/demo/  -->
+<div align="center">
+  <a href="https://github.com/HirenShudra/github-readme-streak-stats">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="HirenShudra streak"
+      src="https://streak-stats.demolab.com?user=HirenShudra&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+    />
+  </a>
+</div>
+<br />
+
+<div align="center">
+  <a href="https://github.com/HirenShudra/github-readme-stats">
+    <img
+      alt="HirenShudra Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=HirenShudra&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/HirenShudra">
+    <span>
+      <img
+        alt=""
+        align="center"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HirenShudra&theme=dark&background=0071E3"
+      />
+    </span>
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/HirenShudra/github-readme-activity-graph">
+    <img
+      style="border-radius: 50px"
+      width="70%"
+      alt="HirenShudra Activity Graph"
+      src="https://activity-graph.herokuapp.com/graph?username=HirenShudra&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
+    />
+  </a>
+</div>
