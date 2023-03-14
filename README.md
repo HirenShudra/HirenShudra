@@ -137,7 +137,7 @@
 </div>
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaurya611&show_icons=true&locale=en&&theme=highcontrast" alt="Shaurya611" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HirenShudra&show_icons=true&locale=en&&theme=highcontrast" alt="HirenShudra" /></p>
 
 <div align="center">
   <a href="https://github.com/HirenShudra">
