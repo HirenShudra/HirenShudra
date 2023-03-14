@@ -102,18 +102,18 @@
   </a>
 
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://img.icons8.com/color/1x/javascript--v2.gif"
+      alt="javascript"
       width="40"
       height="40"
     />
   </a>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.icons8.com/color/1x/javascript--v2.gif"
+      src="https://img.icons8.com/ios-filled/1x/github.png"
       alt="javascript"
       width="40"
       height="40"
