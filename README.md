@@ -41,7 +41,7 @@
 
 <p>
   🔭 I’m currently exploring and polishing my skills 🌍 I'm basically from
-  Mysuru, Karnataka, India
+  Sutrapada, Gujarat, India
 </p>
 
 <p>
@@ -50,18 +50,17 @@
 </p>
 
 <p>
-  👨‍💻 My Portfilio -<a href="https://HirenShudra.github.io/">[Click here]</a>
+  👨‍💻 My Portfilio -<a href="https://HirenShudra.github.io/" target="_blank">[Click here]</a>
 </p>
 
 <p>
   👀 My Github Repositories -
-  <a href="https://github.com/HirenShudra?tab=repositories">[Click here]</a>
+  <a href="https://github.com/HirenShudra?tab=repositories" target="_blank">[Click here]</a>
 </p>
 <p>
-  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS
-  libraries like Chakra UI, Bootstrap & styled-components.
+  🚀 I have learned couple of skills like Linux, SQL, JavaScript, HTML, CSS.
 </p>
-<p>📧 Email - HirenShudra@gmail.com</p>
+<p>📧 Email - HirenShudra8@gmail.com</p>
 <p>
   📄 Know about my skills [Resume] -
   <a
@@ -71,7 +70,7 @@
 </p>
 <p>
   My LinkedIn profile -
-  <a href="https://www.linkedin.com/in/sathya-prasad-s/">[Click here]</a>
+  <a href="https://www.linkedin.com/in/hiren-shudra-a65880b3/">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
