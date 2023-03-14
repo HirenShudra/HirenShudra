@@ -121,12 +121,12 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <a href="https://github.com/HirenShudra/github-readme-stats">
+
     <img
       alt="HirenShudra Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirenShudra&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
     />
-  </a>
+
 </div>
 <br />
 
