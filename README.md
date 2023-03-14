@@ -137,15 +137,8 @@
 </div>
 <br />
 
-<div align="center">
-  <a href="https://github.com/HirenShudra/github-readme-stats">
-    <img
-      alt="HirenShudra Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=HirenShudra&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
-    />
-  </a>
-</div>
-<!-- last section -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaurya611&show_icons=true&locale=en&&theme=highcontrast" alt="Shaurya611" /></p>
+
 <div align="center">
   <a href="https://github.com/HirenShudra">
     <span>
