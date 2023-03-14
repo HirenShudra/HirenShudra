@@ -120,14 +120,9 @@
 <br />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div> 
-          <a href="https://github.com/HirenShudra/github-readme-stats">
-            <img
-              alt="HirenShudra Github Stats"
-              src="https://github-readme-stats.vercel.app/api?username=HirenShudra&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
-            />
-          </a>
-        </div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaurya611&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Shaurya611" /></p>
+<p align="center">
+</p>
 <br />
 
 <!-- https://streak-stats.demolab.com/demo/  -->
