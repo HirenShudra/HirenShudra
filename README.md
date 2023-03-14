@@ -44,10 +44,6 @@
   Sutrapada, Gujarat, India
 </p>
 
-<p>
-  ⚛️ Some technologies that I love to working with includes MERN stack,
-  Typescript & Web Testing.
-</p>
 
 <p>
   👨‍💻 My Portfilio -<a href="https://HirenShudra.github.io/" target="_blank">[Click here]</a>
