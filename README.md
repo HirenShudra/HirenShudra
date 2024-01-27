@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3 align="center">Technical Support Engineer</h3>
+<h3 align="center">Aspiring Front-end Developer</h3>
 
 <div align="center">
   <img
